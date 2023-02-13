@@ -1,2 +1,6 @@
 data
 .vscode
+mxnet
+paddle
+pytorch
+tensorflow
